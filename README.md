@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pawel (@pawelras)
+- 👀 I’m currently in the process in changing my career to software development with particuar interest in web development including JS, Node, JQuery, React, Redux, SQL, Express and Python.
+- 🌱 I’m currently also learning basics of C#, Java and PHP
+- 💞️ I’m open to any new opportunities
+- 📫 Please feel free to email me at pawraszkiewicz@gmail.com
