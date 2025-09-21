@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pawel (@pawelras)
 - 👀 I’m a London based web developer witj particuar interest in JS, Node, JQuery, React, Redux, SQL, Express, PHP and Python.
-- 🌱 I’m currently also learning C# and Java.
+- 🌱 I’m currently also learning Python.
 - 💞️ I’m open to any new opportunities
 - 📫 Please feel free to email me at pawraszkiewicz@gmail.com
