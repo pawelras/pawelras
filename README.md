@@ -3,3 +3,4 @@
 - 🌱 I’m currently also learning Python.
 - 💞️ I’m open to any new opportunities
 - 📫 Please feel free to email me at pawraszkiewicz@gmail.com
+- 🖥️ See my portfolio https://pawelraszkiewicz.co.uk
